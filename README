@@ -1,6 +1,6 @@
-## Bowling Lane Backend Software
+Bowling Lane App
 
-REQUIRMENTS python 3.8.9
+REQUIREMENT TS python 3.8.9
 HOW TO RUN THE GAME:
 
     1 - using the test scripts provided
@@ -11,7 +11,7 @@ HOW TO RUN THE GAME:
             $> sh threePlayers.sh
             this runs and displays 3 players
 
-    2- as normal by runnning (on MacOS)
+    2- as normal by running (on MacOS)
         $> python3 main.py
 
 Problem Statement:
@@ -36,19 +36,19 @@ Implementation:
 
 Assumptions:
 
-    1- The lanes machinery will relay data primitavly using bits. Since there are 10 pins the
+    1- The lanes machinery will relay data primitive avly using bits. Since there are 10 pins the
     lowest bit integer that can be used is 16
 
     2- The simple machinery for the lane will only report total pins down. This means the second
-    throw for a frame will encompase the pins knocked down from the first throw.
+    throw for a frame will encompass the pins knocked down from the first throw.
     Example: The first throw knocked down pin 1 2 and 4, so it reports that it knocked down
     those pins. The second throw knocks down pin 7, so it reports that pins 1 2 4 and 7
     are knocked down.
 
     3- The machinery is able to keep track if the throw is the first, second and even third throw
 
-    4- The display service could be seperated from the lane and game controller. So the game state
-    was made availble to the display service as json data.
+    4- The display service could be separate erated from the lane and game controller. So the game state
+    was made available ble to the display service as json data.
 
 Design
 The implementation of the application was split into four parts that model the problem.
