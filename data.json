@@ -1,0 +1,565 @@
+{
+  "players": [
+    {
+      "name": "jake",
+      "score": 160,
+      "frames": [
+        {
+          "isStrike": false,
+          "isSpare": false,
+          "score": 9,
+          "total_score": 9,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1022,
+            "frame": 0,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": {
+            "data": 1024,
+            "frame": 0,
+            "pins_down": 0,
+            "pin_list": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": false,
+          "score": 9,
+          "total_score": 18,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1021,
+            "frame": 1,
+            "pins_down": 9,
+            "pin_list": [1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": {
+            "data": 1024,
+            "frame": 1,
+            "pins_down": 0,
+            "pin_list": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 19,
+          "total_score": 37,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1022,
+            "frame": 2,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": {
+            "data": 1025,
+            "frame": 2,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 19,
+          "total_score": 56,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1022,
+            "frame": 3,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": {
+            "data": 1025,
+            "frame": 3,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 19,
+          "total_score": 75,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1022,
+            "frame": 4,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": {
+            "data": 1025,
+            "frame": 4,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 19,
+          "total_score": 94,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1022,
+            "frame": 5,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": {
+            "data": 1025,
+            "frame": 5,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": false,
+          "score": 9,
+          "total_score": 103,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1021,
+            "frame": 6,
+            "pins_down": 9,
+            "pin_list": [1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": {
+            "data": 1024,
+            "frame": 6,
+            "pins_down": 0,
+            "pin_list": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 19,
+          "total_score": 122,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1022,
+            "frame": 7,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": {
+            "data": 1025,
+            "frame": 7,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 19,
+          "total_score": 141,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1022,
+            "frame": 8,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": {
+            "data": 1025,
+            "frame": 8,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 19,
+          "total_score": 160,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1022,
+            "frame": 9,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": {
+            "data": 1025,
+            "frame": 9,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          },
+          "throw3": {
+            "data": 1022,
+            "frame": 9,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ann",
+      "score": 300,
+      "frames": [
+        {
+          "isStrike": true,
+          "isSpare": false,
+          "score": 30,
+          "total_score": 30,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1023,
+            "frame": 0,
+            "pins_down": 10,
+            "pin_list": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": null
+        },
+        {
+          "isStrike": true,
+          "isSpare": false,
+          "score": 30,
+          "total_score": 60,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1023,
+            "frame": 1,
+            "pins_down": 10,
+            "pin_list": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": null
+        },
+        {
+          "isStrike": true,
+          "isSpare": false,
+          "score": 30,
+          "total_score": 90,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1023,
+            "frame": 2,
+            "pins_down": 10,
+            "pin_list": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": null
+        },
+        {
+          "isStrike": true,
+          "isSpare": false,
+          "score": 30,
+          "total_score": 120,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1023,
+            "frame": 3,
+            "pins_down": 10,
+            "pin_list": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": null
+        },
+        {
+          "isStrike": true,
+          "isSpare": false,
+          "score": 30,
+          "total_score": 150,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1023,
+            "frame": 4,
+            "pins_down": 10,
+            "pin_list": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": null
+        },
+        {
+          "isStrike": true,
+          "isSpare": false,
+          "score": 30,
+          "total_score": 180,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1023,
+            "frame": 5,
+            "pins_down": 10,
+            "pin_list": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": null
+        },
+        {
+          "isStrike": true,
+          "isSpare": false,
+          "score": 30,
+          "total_score": 210,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1023,
+            "frame": 6,
+            "pins_down": 10,
+            "pin_list": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": null
+        },
+        {
+          "isStrike": true,
+          "isSpare": false,
+          "score": 30,
+          "total_score": 240,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1023,
+            "frame": 7,
+            "pins_down": 10,
+            "pin_list": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": null
+        },
+        {
+          "isStrike": true,
+          "isSpare": false,
+          "score": 30,
+          "total_score": 270,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1023,
+            "frame": 8,
+            "pins_down": 10,
+            "pin_list": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": null
+        },
+        {
+          "isStrike": true,
+          "isSpare": false,
+          "score": 30,
+          "total_score": 300,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1023,
+            "frame": 9,
+            "pins_down": 10,
+            "pin_list": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw2": {
+            "data": 1023,
+            "frame": 9,
+            "pins_down": 10,
+            "pin_list": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw3": {
+            "data": 1023,
+            "frame": 9,
+            "pins_down": 10,
+            "pin_list": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kevin",
+      "score": 110,
+      "frames": [
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 11,
+          "total_score": 11,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1,
+            "frame": 0,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          },
+          "throw2": {
+            "data": 2046,
+            "frame": 0,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 11,
+          "total_score": 22,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1,
+            "frame": 1,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          },
+          "throw2": {
+            "data": 2046,
+            "frame": 1,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 11,
+          "total_score": 33,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1,
+            "frame": 2,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          },
+          "throw2": {
+            "data": 2046,
+            "frame": 2,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 11,
+          "total_score": 44,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1,
+            "frame": 3,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          },
+          "throw2": {
+            "data": 2046,
+            "frame": 3,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 11,
+          "total_score": 55,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1,
+            "frame": 4,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          },
+          "throw2": {
+            "data": 2046,
+            "frame": 4,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 11,
+          "total_score": 66,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1,
+            "frame": 5,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          },
+          "throw2": {
+            "data": 2046,
+            "frame": 5,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 11,
+          "total_score": 77,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1,
+            "frame": 6,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          },
+          "throw2": {
+            "data": 2046,
+            "frame": 6,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 11,
+          "total_score": 88,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1,
+            "frame": 7,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          },
+          "throw2": {
+            "data": 2046,
+            "frame": 7,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 11,
+          "total_score": 99,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1,
+            "frame": 8,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          },
+          "throw2": {
+            "data": 2046,
+            "frame": 8,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          }
+        },
+        {
+          "isStrike": false,
+          "isSpare": true,
+          "score": 11,
+          "total_score": 110,
+          "frame_is_complete": true,
+          "throw1": {
+            "data": 1,
+            "frame": 9,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          },
+          "throw2": {
+            "data": 2046,
+            "frame": 9,
+            "pins_down": 9,
+            "pin_list": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+          },
+          "throw3": {
+            "data": 1,
+            "frame": 9,
+            "pins_down": 1,
+            "pin_list": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+## Bowling Lane Backend Software
+
+REQUIRMENTS python 3.8.9
+HOW TO RUN THE GAME:
+
+    1 - using the test scripts provided
+        1.1-
+            $> sh perfectGame.sh
+            this runs and displays a perfect game
+        1.2-
+            $> sh threePlayers.sh
+            this runs and displays 3 players
+
+    2- as normal by runnning (on MacOS)
+        $> python3 main.py
+
+Problem Statement:
+
+    Imagine you’re tasked with writing the software for a bowling alley that shows the bowling game scoreboard.
+    Design entities and interfaces to model a scoreboard controller for bowling, keeping in mind the nature of
+    the input from the physical machinery in the bowling lane, which generally reflects game and/or pin state.
+    The input to the scoreboard controller is the lane control hardware that reflects the pin state 
+    (i.e. how many pins are up/down).
+
+Task:
+
+    Using your design, implement (in the programming language of your choosing) the scoring / game
+    state display service that would compute needed data that one typically expects to see on the
+    lane monitor during a game.
+
+Implementation:
+
+    Using Python 3.8.9
+    Input command line
+    Output command line / json file
+
+Assumptions:
+
+    1- The lanes machinery will relay data primitavly using bits. Since there are 10 pins the
+    lowest bit integer that can be used is 16
+
+    2- The simple machinery for the lane will only report total pins down. This means the second
+    throw for a frame will encompase the pins knocked down from the first throw.
+    Example: The first throw knocked down pin 1 2 and 4, so it reports that it knocked down
+    those pins. The second throw knocks down pin 7, so it reports that pins 1 2 4 and 7
+    are knocked down.
+
+    3- The machinery is able to keep track if the throw is the first, second and even third throw
+
+    4- The display service could be seperated from the lane and game controller. So the game state
+    was made availble to the display service as json data.
+
+Design
+The implementation of the application was split into four parts that model the problem.
+Documentation for each can be in their respective files
+
+    1- Lane
+    2- LaneController
+    3- Game
+        3.1- Player
+        3.2- Frame
+        3.3- Throw
+    4- scoreBoardController
